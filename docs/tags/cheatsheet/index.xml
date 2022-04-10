@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Crobsy</title>
-    <link>https://crosby-lu.github.io/</link>
-    <description>Recent content on Crobsy</description>
+    <title>cheatsheet on Crobsy</title>
+    <link>https://crosby-lu.github.io/tags/cheatsheet/</link>
+    <description>Recent content in cheatsheet on Crobsy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 10 Apr 2022 01:36:28 +0000</lastBuildDate><atom:link href="https://crosby-lu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 01:36:28 +0000</lastBuildDate><atom:link href="https://crosby-lu.github.io/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>常用</title>
       <link>https://crosby-lu.github.io/posts/%E5%B8%B8%E7%94%A8/</link>

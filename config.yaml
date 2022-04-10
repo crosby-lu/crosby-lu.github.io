@@ -1,4 +1,27 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme:  PaperMod
+baseURL: https://crosby-lu.github.io/
+languageCode: zh-cn
+title: Crobsy
+theme: PaperMod
+hasCJKLanguage: true
+enableEmoji: true 
+enableRobotsTXT: true
+publishDir: docs
+
+menu:
+  main:
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 20
+
+params:
+  ShowPostNavLinks: true
+  ShowToc: true # 显示目录
+  TocOpen: true # 自动展开目录
+
+taxonomies:
+  tag: tags

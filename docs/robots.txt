@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://crosby-lu.github.io/sitemap.xml
